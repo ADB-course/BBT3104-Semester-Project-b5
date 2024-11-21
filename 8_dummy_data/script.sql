@@ -2,7 +2,7 @@
 INSERT INTO Customer (CustomerName, ContactInfo, AccountStatus)
 VALUES 
 ('Teejan Amusala', '0712345678', 'Active'),
-('Kishoyian T/iampati', '07648907654', 'Inactive');
+('Kishoyian Tiampati', '07648907654', 'Inactive');
 
 -- Insert dummy data into the Account table
 INSERT INTO Account (CustomerID, Balance, AccountStatus)
